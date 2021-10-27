@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#project_title {
+  text-align: center;
+}
+
+#forkme_banner,#main_content_wrap,#footer_wrap {
+  display: none;
+}
